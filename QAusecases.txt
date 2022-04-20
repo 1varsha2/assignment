@@ -1,0 +1,30 @@
+1.User Login-check and match the password for the respective username and validiation
+           Password should be in dotted format .
+2.Deals of the day-Testing if the deal is a link and is being redirected to the right product information
+3.Search-Testing if the product being searched is  visible on search 
+4.Home Page-Testing the page to load properly
+         Testing if the images are loading 
+5.Hot Picks-Testing if the image can be clicked and will redirect to the required page
+6.All Products- (1)Testing if all the relavant products are being shown,  sorting of products from low price to high, products from high price to low
+                   is working in expexted manner.
+             (2)testing if all productswhich are not avilable are visible on checking for include out of stock
+             (3)Checking if the products in each category belong to the  same type
+
+
+
+7.Cart-Testing if we can add more items into cart ie. continue shopping or procced to checkout.
+8.My Orders-Testing of cancellation of order is possible
+            Testing if there is a conformation alert before cancellation 
+            Enable to download the invoice
+9.Placing an order-Before confirming an order all the details should be displayed to user
+                   addresses saved can be edited or added
+                    Testing if the process is carried out in a proper order ie.selecting address->selection of payment method ->conformation before payment 
+10.My profile-Testing if the details can be added or edited (user details)
+              Testing if Username, password, phone number and email should be visible in user profile.
+11.Admin login-Tesing if admin is able to login and navigate through products, users and orders.
+               Testing if admin can logout.
+12.Users-testing if admin is able to view and manage the user data
+         testing if admin is able to view the order details of orders placed
+13.Products-Testingif admin should be able to add new products and the added ones should be visible to users
+            Admin should be able to edit,update,delete,search the product details like price, quantity etc..
+       
